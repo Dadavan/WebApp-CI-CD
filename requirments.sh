@@ -9,4 +9,4 @@ xmlrunner==1.7.7
 PACKAGE_MANIFEST
 
 # install packages
-pip install -r requirements.txt
+pip3 install -r requirements.txt
